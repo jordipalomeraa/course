@@ -1,7 +1,7 @@
-- title: 0. Setup
+- title: 0. Configuració
   sections:
   - local: chapter0/1
-    title: Introduction
+    title: Introducció
 
 - title: 1. Transformer models
   sections:

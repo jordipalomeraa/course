@@ -1,0 +1,31 @@
+- title: 0. Setup
+  sections:
+  - local: chapter0/1
+    title: Introduction
+
+- title: 1. Transformer models
+  sections:
+  - local: chapter1/1
+    title: Introduction
+  - local: chapter1/2
+    title: Natural Language Processing and Large Language Models
+  - local: chapter1/3
+    title: Transformers, what can they do?
+  - local: chapter1/4
+    title: How do Transformers work?
+  - local: chapter1/5
+    title: How 🤗 Transformers solve tasks
+  - local: chapter1/6
+    title: Transformer Architectures
+  - local: chapter1/7
+    title: Quick quiz
+  - local: chapter1/8
+    title: Inference with LLMs
+  - local: chapter1/9
+    title: Bias and limitations
+  - local: chapter1/10
+    title: Summary
+  - local: chapter1/11
+    title: Certification exam
+    quiz: 1
+
